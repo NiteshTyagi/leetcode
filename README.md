@@ -32,6 +32,7 @@
 |1237|[ Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)|[Python3](./solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py)|64 ms|
 |1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python3](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)|108 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python3](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)|112 ms|
+|1381|[ Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python3](./solutions/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py)|120 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python3](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py)|28 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|40 ms|
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|48 ms|
