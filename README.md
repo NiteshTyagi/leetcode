@@ -26,6 +26,7 @@
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python3](./solutions/844.%20Backspace%20String%20Compare.py)|32 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python3](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|76 ms|
 |908|[ Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python3](./solutions/908.%20Smallest%20Range%20I.py)|116 ms|
+|921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|24 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python3](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.py)|24 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|44 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|84 ms|
