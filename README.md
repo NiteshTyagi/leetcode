@@ -26,6 +26,7 @@
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python3](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|104 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python3](./solutions/844.%20Backspace%20String%20Compare.py)|32 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python3](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|76 ms|
+|856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python3](./solutions/856.%20Score%20of%20Parentheses.py)|24 ms|
 |908|[ Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python3](./solutions/908.%20Smallest%20Range%20I.py)|116 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|24 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|72 ms|
