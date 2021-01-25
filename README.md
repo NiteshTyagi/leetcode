@@ -19,6 +19,7 @@
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python3](./solutions/392.%20Is%20Subsequence.py)|40 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python3](./solutions/441.%20Arranging%20Coins.py)|848 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python3](./solutions/496.%20Next%20Greater%20Element%20I.py)|340 ms|
+|503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python3](./solutions/503.%20Next%20Greater%20Element%20II.py)|228 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Python3](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.py)|80 ms|
 |682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python3](./solutions/682.%20Baseball%20Game.py)|36 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Python3](./solutions/704.%20Binary%20Search.py)|236 ms|
