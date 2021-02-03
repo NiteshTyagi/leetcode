@@ -54,3 +54,4 @@
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|40 ms|
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|48 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python3](./solutions/1678.%20Goal%20Parser%20Interpretation.py)|28 ms|
+|1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py)|248 ms|
