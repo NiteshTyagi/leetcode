@@ -10,12 +10,12 @@ class Solution:
         elif(head.next.next==None):
             return head.next
         else:
-            count_len = 0
+            count_length = 0
             ptr=head
             while ptr:
-                count_len+=1
+                count_length+=1
                 ptr = ptr.next
-            index = (count_len)//2
+            index = (count_lenght)//2
             
             while head and index:
                 index-=1
