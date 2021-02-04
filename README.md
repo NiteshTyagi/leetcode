@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|80 ms|
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python3](./solutions/7.%20Reverse%20Integer.py)|32 ms|
+|21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python3](./solutions/21.%20Merge%20Two%20Sorted%20Lists.py)|40 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python3](./solutions/35.%20Search%20Insert%20Position.py)|36 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python3](./solutions/69.%20Sqrt(x).py)|48 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Python3](./solutions/155.%20Min%20Stack.py)|608 ms|
