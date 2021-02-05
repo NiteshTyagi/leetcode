@@ -7,6 +7,7 @@
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python3](./solutions/21.%20Merge%20Two%20Sorted%20Lists.py)|40 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python3](./solutions/35.%20Search%20Insert%20Position.py)|36 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python3](./solutions/69.%20Sqrt(x).py)|48 ms|
+|83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|40 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Python3](./solutions/155.%20Min%20Stack.py)|608 ms|
 |167|[ Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python3](./solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|2208 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
