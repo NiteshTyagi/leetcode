@@ -7,6 +7,7 @@
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python3](./solutions/7.%20Reverse%20Integer.py)|32 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python3](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|36 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python3](./solutions/21.%20Merge%20Two%20Sorted%20Lists.py)|40 ms|
+|24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python3](./solutions/24.%20Swap%20Nodes%20in%20Pairs.py)|24 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python3](./solutions/35.%20Search%20Insert%20Position.py)|36 ms|
 |61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[Python3](./solutions/61.%20Rotate%20List.py)|40 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python3](./solutions/69.%20Sqrt(x).py)|48 ms|
