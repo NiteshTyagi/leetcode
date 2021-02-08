@@ -13,6 +13,7 @@
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python3](./solutions/69.%20Sqrt(x).py)|48 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|40 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python3](./solutions/141.%20Linked%20List%20Cycle.py)|56 ms|
+|148|[ Sort List](https://leetcode.com/problems/sort-list/)|[Python3](./solutions/148.%20Sort%20List.py)|236 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Python3](./solutions/155.%20Min%20Stack.py)|608 ms|
 |167|[ Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python3](./solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|2208 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|64 ms|
