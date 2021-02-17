@@ -53,6 +53,7 @@
 |901|[ Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python3](./solutions/901.%20Online%20Stock%20Span.py)|472 ms|
 |908|[ Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python3](./solutions/908.%20Smallest%20Range%20I.py)|116 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python3](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)|24 ms|
+|922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python3](./solutions/922.%20Sort%20Array%20By%20Parity%20II.py)|232 ms|
 |933|[ Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python3](./solutions/933.%20Number%20of%20Recent%20Calls.py)|6624 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|72 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python3](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.py)|24 ms|
