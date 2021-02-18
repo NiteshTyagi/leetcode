@@ -75,6 +75,7 @@
 |1403|[ Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python3](./solutions/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order.py)|88 ms|
 |1410|[ HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python3](./solutions/1410.%20HTML%20Entity%20Parser.py)|308 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python3](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py)|28 ms|
+|1491|[ Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python3](./solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)|24 ms|
 |1502|[ Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[Python3](./solutions/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)|40 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python3](./solutions/1528.%20Shuffle%20String.py)|52 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|40 ms|
