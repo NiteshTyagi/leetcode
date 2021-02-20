@@ -83,6 +83,7 @@
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|40 ms|
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|48 ms|
 |1636|[ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Python3](./solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency.py)|60 ms|
+|1640|[ Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python3](./solutions/1640.%20Check%20Array%20Formation%20Through%20Concatenation.py)|36 ms|
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python3](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|32 ms|
 |1669|[ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python3](./solutions/1669.%20Merge%20In%20Between%20Linked%20Lists.py)|532 ms|
 |1670|[ Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)|[Python3](./solutions/1670.%20Design%20Front%20Middle%20Back%20Queue.py)|64 ms|
