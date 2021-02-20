@@ -24,6 +24,7 @@
 |225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python3](./solutions/225.%20Implement%20Stack%20using%20Queues.py)|28 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python3](./solutions/232.%20Implement%20Queue%20using%20Stacks.py)|32 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python3](./solutions/234.%20Palindrome%20Linked%20List.py)|68 ms|
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python3](./solutions/242.%20Valid%20Anagram.py)|48 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Python3](./solutions/258.%20Add%20Digits.py)|24 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python3](./solutions/278.%20First%20Bad%20Version.py)|32 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python3](./solutions/287.%20Find%20the%20Duplicate%20Number.py)|88 ms|
