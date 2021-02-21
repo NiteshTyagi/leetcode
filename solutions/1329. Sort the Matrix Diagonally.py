@@ -18,8 +18,9 @@ class Solution:
                     temp.append(mat[R][C])
                     R+=1
                     C+=1
-                flag=False
-                temp.sort()
+                if flag:
+                    temp.sort()
+                    flag=False
                 result[r][c] = temp[count]
                 count+=1
                 r+=1
@@ -38,8 +39,9 @@ class Solution:
                     temp.append(mat[R][C])
                     R+=1
                     C+=1
-                flag=False
-                temp.sort()
+                if flag:
+                    temp.sort()
+                    flag=False
                 result[r][c] = temp[count]
                 count+=1
                 r+=1
