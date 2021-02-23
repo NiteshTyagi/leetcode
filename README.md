@@ -57,6 +57,7 @@
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python3](./solutions/922.%20Sort%20Array%20By%20Parity%20II.py)|216 ms|
 |933|[ Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python3](./solutions/933.%20Number%20of%20Recent%20Calls.py)|6624 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python3](./solutions/946.%20Validate%20Stack%20Sequences.py)|72 ms|
+|969|[ Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python3](./solutions/969.%20Pancake%20Sorting.py)|44 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python3](./solutions/976.%20Largest%20Perimeter%20Triangle.py)|184 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python3](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.py)|24 ms|
 |1019|[ Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[Python3](./solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List.py)|360 ms|
