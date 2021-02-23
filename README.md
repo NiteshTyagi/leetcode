@@ -77,6 +77,7 @@
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Python3](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)|60 ms|
 |1370|[ Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python3](./solutions/1370.%20Increasing%20Decreasing%20String.py)|1048 ms|
 |1381|[ Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python3](./solutions/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py)|120 ms|
+|1387|[ Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Python3](./solutions/1387.%20Sort%20Integers%20by%20The%20Power%20Value.py)|832 ms|
 |1403|[ Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python3](./solutions/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order.py)|88 ms|
 |1410|[ HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python3](./solutions/1410.%20HTML%20Entity%20Parser.py)|308 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python3](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py)|28 ms|
