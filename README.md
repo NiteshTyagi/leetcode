@@ -102,3 +102,4 @@
 |1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python3](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py)|248 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Python3](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.py)|148 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|1128 ms|
+|1727|[ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[Python3](./solutions/1727.%20Largest%20Submatrix%20With%20Rearrangements.py)|1184 ms|
