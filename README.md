@@ -47,6 +47,7 @@
 |622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python3](./solutions/622.%20Design%20Circular%20Queue.py)|68 ms|
 |641|[ Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python3](./solutions/641.%20Design%20Circular%20Deque.py)|68 ms|
 |682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python3](./solutions/682.%20Baseball%20Game.py)|36 ms|
+|693|[ Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python3](./solutions/693.%20Binary%20Number%20with%20Alternating%20Bits.py)|28 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Python3](./solutions/704.%20Binary%20Search.py)|236 ms|
 |707|[ Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python3](./solutions/707.%20Design%20Linked%20List.py)|72 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python3](./solutions/739.%20Daily%20Temperatures.py)|528 ms|
