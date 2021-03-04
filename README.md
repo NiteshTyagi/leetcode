@@ -42,6 +42,7 @@
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python3](./solutions/389.%20Find%20the%20Difference.py)|36 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python3](./solutions/392.%20Is%20Subsequence.py)|40 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Python3](./solutions/394.%20Decode%20String.py)|32 ms|
+|405|[ Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Python3](./solutions/405.%20Convert%20a%20Number%20to%20Hexadecimal.py)|32 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python3](./solutions/441.%20Arranging%20Coins.py)|848 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python3](./solutions/445.%20Add%20Two%20Numbers%20II.py)|76 ms|
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python3](./solutions/461.%20Hamming%20Distance.py)|32 ms|
