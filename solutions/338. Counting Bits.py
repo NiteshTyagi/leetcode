@@ -2,14 +2,15 @@ class Solution:
     def countBits(self, num: int) -> List[int]:
         if num<0:
             return [0]
-        result = []
-        def countSetBit(i):
-            count=0
-            while i:
-                count+=1
-                i = i&(i-1)
-            return count
-        
-        for i in range(0,num+1):
-            result.append(countSetBit(i))
+        result = [0]*(num+1)
+        n=2
+        prev = 0
+        for i in range(1,num+1):
+            if i%n==0:
+                n*=2
+                result[i]=1
+                prev = 1
+            else:
+                result[i]= result[prev]+1
+                prev+=1
         return result
