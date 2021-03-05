@@ -99,6 +99,7 @@
 |1403|[ Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python3](./solutions/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order.py)|88 ms|
 |1410|[ HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python3](./solutions/1410.%20HTML%20Entity%20Parser.py)|308 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python3](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.py)|28 ms|
+|1442|[ Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|[Python3](./solutions/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR.py)|56 ms|
 |1451|[ Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[Python3](./solutions/1451.%20Rearrange%20Words%20in%20a%20Sentence.py)|44 ms|
 |1471|[ The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)|[Python3](./solutions/1471.%20The%20k%20Strongest%20Values%20in%20an%20Array.py)|1240 ms|
 |1481|[ Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[Python3](./solutions/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.py)|508 ms|
