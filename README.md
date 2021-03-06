@@ -109,6 +109,7 @@
 |1491|[ Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python3](./solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)|24 ms|
 |1502|[ Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[Python3](./solutions/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)|40 ms|
 |1508|[ Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Python3](./solutions/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.py)|352 ms|
+|1525|[ Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)|[Python3](./solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.py)|220 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python3](./solutions/1528.%20Shuffle%20String.py)|52 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|40 ms|
 |1561|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python3](./solutions/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.py)|616 ms|
