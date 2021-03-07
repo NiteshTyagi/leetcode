@@ -31,7 +31,7 @@
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python3](./solutions/234.%20Palindrome%20Linked%20List.py)|68 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python3](./solutions/242.%20Valid%20Anagram.py)|44 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Python3](./solutions/258.%20Add%20Digits.py)|24 ms|
-|260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[Python3](./solutions/260.%20Single%20Number%20III.py)|4424 ms|
+|260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[Python3](./solutions/260.%20Single%20Number%20III.py)|48 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|128 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python3](./solutions/278.%20First%20Bad%20Version.py)|32 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python3](./solutions/287.%20Find%20the%20Duplicate%20Number.py)|88 ms|
