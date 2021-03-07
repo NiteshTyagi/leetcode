@@ -1,7 +1,15 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
-        from collections import Counter
-        count = Counter(nums)
-        return list(map(lambda x:x[0],filter(lambda x: x[1]==1,count.items())))
+        xor, res1, res2 = 0, 0, 0
+        for num in nums:
+            xor ^= num
+        xor = xor & (~(xor-1))
+        for num in nums:
+            if num & xor == 0:
+                res1 ^= num
+            else:
+                res2 ^= num
+​
+        return [res1, res2]
         
         
