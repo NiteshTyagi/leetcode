@@ -11,7 +11,7 @@
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python3](./solutions/35.%20Search%20Insert%20Position.py)|36 ms|
 |61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[Python3](./solutions/61.%20Rotate%20List.py)|40 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python3](./solutions/69.%20Sqrt(x).py)|48 ms|
-|78|[ Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/78.%20Subsets.py)|36 ms|
+|78|[ Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/78.%20Subsets.py)|32 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|40 ms|
 |92|[ Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python3](./solutions/92.%20Reverse%20Linked%20List%20II.py)|28 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Python3](./solutions/136.%20Single%20Number.py)|124 ms|
