@@ -78,7 +78,7 @@
 |969|[ Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python3](./solutions/969.%20Pancake%20Sorting.py)|44 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python3](./solutions/973.%20K%20Closest%20Points%20to%20Origin.py)|676 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python3](./solutions/976.%20Largest%20Perimeter%20Triangle.py)|184 ms|
-|997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python3](./solutions/997.%20Find%20the%20Town%20Judge.py)|732 ms|
+|997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python3](./solutions/997.%20Find%20the%20Town%20Judge.py)|720 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python3](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.py)|24 ms|
 |1019|[ Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[Python3](./solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List.py)|360 ms|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|44 ms|
