@@ -9,4 +9,3 @@ class Solution:
         for k,v in vertices.items():
             if vertices[k]==n:
                 return k
-        # print(vertices)
