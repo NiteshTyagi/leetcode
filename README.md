@@ -117,6 +117,7 @@
 |1525|[ Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)|[Python3](./solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.py)|228 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python3](./solutions/1528.%20Shuffle%20String.py)|52 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python3](./solutions/1544.%20Make%20The%20String%20Great.py)|40 ms|
+|1557|[ Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python3](./solutions/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.py)|1116 ms|
 |1561|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python3](./solutions/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.py)|616 ms|
 |1598|[ Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python3](./solutions/1598.%20Crawler%20Log%20Folder.py)|48 ms|
 |1630|[ Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python3](./solutions/1630.%20Arithmetic%20Subarrays.py)|272 ms|
