@@ -57,6 +57,7 @@
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Python3](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.py)|80 ms|
 |621|[ Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python3](./solutions/621.%20Task%20Scheduler.py)|396 ms|
 |622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python3](./solutions/622.%20Design%20Circular%20Queue.py)|68 ms|
+|636|[ Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)|[Python3](./solutions/636.%20Exclusive%20Time%20of%20Functions.py)|188 ms|
 |641|[ Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python3](./solutions/641.%20Design%20Circular%20Deque.py)|68 ms|
 |682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python3](./solutions/682.%20Baseball%20Game.py)|36 ms|
 |684|[ Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python3](./solutions/684.%20Redundant%20Connection.py)|48 ms|
