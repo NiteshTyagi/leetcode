@@ -27,6 +27,7 @@
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python3](./solutions/191.%20Number%20of%201%20Bits.py)|32 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|64 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
+|224|[ Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python3](./solutions/224.%20Basic%20Calculator.py)|60 ms|
 |225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python3](./solutions/225.%20Implement%20Stack%20using%20Queues.py)|28 ms|
 |227|[ Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Python3](./solutions/227.%20Basic%20Calculator%20II.py)|196 ms|
 |231|[ Power of Two](https://leetcode.com/problems/power-of-two/)|[Python3](./solutions/231.%20Power%20of%20Two.py)|32 ms|
