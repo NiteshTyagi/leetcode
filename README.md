@@ -39,6 +39,7 @@
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Python3](./solutions/268.%20Missing%20Number.py)|128 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python3](./solutions/278.%20First%20Bad%20Version.py)|32 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python3](./solutions/287.%20Find%20the%20Duplicate%20Number.py)|88 ms|
+|316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python3](./solutions/316.%20Remove%20Duplicate%20Letters.py)|40 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|44 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python3](./solutions/338.%20Counting%20Bits.py)|80 ms|
 |341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python3](./solutions/341.%20Flatten%20Nested%20List%20Iterator.py)|68 ms|
