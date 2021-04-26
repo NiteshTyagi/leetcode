@@ -92,6 +92,7 @@
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python3](./solutions/1021.%20Remove%20Outermost%20Parentheses.py)|44 ms|
 |1030|[ Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python3](./solutions/1030.%20Matrix%20Cells%20in%20Distance%20Order.py)|168 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python3](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|84 ms|
+|1081|[ Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|[Python3](./solutions/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters.py)|20 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|28 ms|
 |1122|[ Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python3](./solutions/1122.%20Relative%20Sort%20Array.py)|28 ms|
 |1190|[ Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python3](./solutions/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)|32 ms|
