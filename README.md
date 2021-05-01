@@ -142,4 +142,5 @@
 |1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python3](./solutions/1720.%20Decode%20XORed%20Array.py)|224 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python3](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)|1128 ms|
 |1727|[ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[Python3](./solutions/1727.%20Largest%20Submatrix%20With%20Rearrangements.py)|1148 ms|
+|1765|[ Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Python3](./solutions/1765.%20Map%20of%20Highest%20Peak.py)|6836 ms|
 |1791|[ Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python3](./solutions/1791.%20Find%20Center%20of%20Star%20Graph.py)|852 ms|
