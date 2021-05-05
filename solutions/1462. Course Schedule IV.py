@@ -36,3 +36,11 @@ class Solution:
                                 queue=[]
                                 break
                             else:
+                                visited[adj]=True
+                                queue.append(adj)
+                    if not self.graph[ele]:
+                        c+=1
+                if c!=0:
+                    result.append(False)
+        return result
+            
